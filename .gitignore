@@ -1,0 +1,6 @@
+# Add to .gitignore
+build/
+.dart_tool/
+*.apk
+*.aab
+*.so
